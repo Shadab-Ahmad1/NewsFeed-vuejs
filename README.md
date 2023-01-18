@@ -1,4 +1,4 @@
-# blog-app
+# NewsFeed-app
 
 ## Project setup
 ```
